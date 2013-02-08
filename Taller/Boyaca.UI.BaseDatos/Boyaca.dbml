@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Class="BoyacaDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Table Name="" Member="Items">
+    <Type Name="Items">
+      <Column Member="Id" Type="System.Int32" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Member="Nombre" Type="System.String" CanBeNull="false" />
+      <Column Member="Precio" Type="System.Int32" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>
