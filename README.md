@@ -1,14 +1,28 @@
-Boya.ca
-===========================
-Material de las charlas de Windows Phone y Windows 8 en Boya.ca Campus Party.
-
-Conferencista
+Boya.ca Material de las charlas de Windows Phone y Windows 8 en Boya.ca Campus Party.
 -----------------------
 Blog: [http:blog.soreygarcia.me](http://blogs.soreygarcia.me) <br />
 Twitter: [@soreygarcia](http://twitter.com/soreygarcia) <br />
 
 Concurso - Windows Phone
 ===========================
+
+SDKs de Windows Phone
+-----------------------
+SDK 7.1
+http://www.microsoft.com/en-us/download/details.aspx?id=27570
+SDK 7.1.1
+http://www.microsoft.com/en-us/download/details.aspx?id=29233
+SDK 7.8
+http://www.microsoft.com/en-us/download/details.aspx?id=36474
+SDK 8
+http://www.microsoft.com/es-es/download/details.aspx?id=35471
+
+Material de Apoyo
+-----------------------
+Videos: http://vimeo.com/soreygarcia
+Blog: http://blog.soreygarcia.me/search/label/Windows%20Phone
+Codigo: http://github.com/soreygarcia
+
 Característica básicas de la aplicación
 -----------------------
 Panorama o Pivot.
